@@ -1,1 +1,2 @@
 Hello from User 1
+Content from User 2
